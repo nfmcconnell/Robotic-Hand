@@ -12,3 +12,6 @@ The hand was modeled off of the dimensions of my own hand to create proper propo
 
 ## Current Stage
 Currently, I have the hand assembled and am working on debuggnig and troubleshooting the motors and flex sensors. The next step is to begin putting the user glove together and attaching the flex sensors to each hand. Once that is done I will determine the resistance of each finger closed and open to properly assign values to the mapping of the servos. This will give more accuracy on each finger. 
+
+![IMG-7059](https://user-images.githubusercontent.com/60329920/117733647-cacc3480-b1a6-11eb-865d-ec73822f799f.jpg)
+
