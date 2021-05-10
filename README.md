@@ -15,3 +15,4 @@ Currently, I have the hand assembled and am working on debuggnig and troubleshoo
 
 ![IMG-7059](https://user-images.githubusercontent.com/60329920/117733647-cacc3480-b1a6-11eb-865d-ec73822f799f.jpg)
 
+![IMG-7060](https://user-images.githubusercontent.com/60329920/117733694-d9b2e700-b1a6-11eb-9f6e-a69f86bb72c9.jpg)
