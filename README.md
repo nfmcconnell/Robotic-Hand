@@ -7,3 +7,5 @@ I began this personal project to further experience in robotics and to explore m
 The hand was modeled off of the dimensions of my own hand to create proper proportions and an accurate design. The finger joints are revolute joints held together with pins to allow the finger to contract and retract. Each finger has two lines connected at the tip to the servo tensioners which control the movement of the fingers. The most challenging part of this process is the troubleshooting that occurs when discovering constraints in movement due to interferences in the design. The palm of the hand is connected to the forearm by a bracket. Within the forearm, the servo motors are mounted to brackets and spaced accordingly to be space efficient. There are two string brackets for orginazion and to minimze contact.
 
 ![Asssembly_Render_3](https://user-images.githubusercontent.com/60329920/117714749-3bb22300-b18c-11eb-8f27-2caad009e33e.JPG)
+
+![Asssembly_Render_2](https://user-images.githubusercontent.com/60329920/117715895-c0517100-b18d-11eb-933f-50673c50359d.JPG)
