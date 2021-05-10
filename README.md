@@ -1,4 +1,4 @@
-# Robotic-Hand (current project still being completed)
+# Robotic-Hand (in progress)
 
 ## Background
 I began this personal project to further experience in robotics and to explore my interest in robotic prosthetics. The 3-D printed hand was designed in SolidWorks using similar dimension to my own hand for accurate proportions. Utilizig an Arduino Nano on the users glove and an Arduino Uno on the 3-D printed hand, the robotic hand will mimic the users motions. Two bluetooth modules perform the communication between the Arduinos allowing the user to be at a distance while still operating the hand. The forearm houses the 5 mini servo motor that contract and retract the fingers and thumb. Further development of this project could involve creating a more intricate hand design for a more realistic design.
